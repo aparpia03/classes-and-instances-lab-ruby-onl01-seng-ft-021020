@@ -8,5 +8,5 @@ lassie = Dog.new
 class Person
 end  
 
-person_1 = adele_goldberg = Person.new
-person_2 = alan_kay = Person.new 
+  adele_goldberg = Person.new
+  alan_kay = Person.new 
